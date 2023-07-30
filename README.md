@@ -1,0 +1,2 @@
+# Hospital-Management-System
+To develop the functionalities for Hospital Management system to maintain the data about the Users, Doctors, Patients & appointment details. The project Hospital Management system includes registration of users, storing their details into the system. It is accessible either by a management login. The interface is very user-friendly. The data are well protected for personal use and make the data processing very fast.
